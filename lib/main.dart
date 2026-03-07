@@ -78,7 +78,7 @@ debugShowCheckedModeBanner: false,
         backgroundColor: Colors.grey[200],
         appBar: AppBar(
           backgroundColor: Colors.white,
-            toolbarHeight: 70,title:Text("English Letters Sound",style:GoogleFonts.inter(color:Colors.black,fontWeight: FontWeight.bold) ,),
+            toolbarHeight: 70,title:Text("Enlishg Letters Sound",style:GoogleFonts.inter(color:Colors.black,fontWeight: FontWeight.bold) ,),
           centerTitle: true,
           shape:RoundedRectangleBorder(
             borderRadius: BorderRadiusGeometry.vertical(
